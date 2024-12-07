@@ -1,4 +1,4 @@
-**# Responsive Product Card Application**
+# **Responsive Product Card Application**
 
 **## **Overview****
 
@@ -21,17 +21,17 @@
 ## Tech Stack
 <ul>
   
-<li>**Frontend:** React.js</li>
+<li>Frontend: React.js</li>
 
-<li>**State Management:** React Hooks (useState)</li>
+<li>State Management: React Hooks (useState)</li>
 
-<li>**Styling:** Tailwind CSS for responsive design</li>
+<li>Styling: Tailwind CSS for responsive design</li>
 
-<li>**Pop-up Alerts:** SweetAlert2 for interactive alerts</li>
+<li>Pop-up Alerts: SweetAlert2 for interactive alerts</li>
 
-<li>**Images Storage:** Local images stored in the public/images/ folder</li>
+<li>Images Storage:Local images stored in the public/images/ folder</li>
 
-<li>**Build Tool:** Webpack (bundled automatically by React)</li>
+<li>Build Tool: Webpack (bundled automatically by React)</li>
 
 </ul>
 
@@ -60,35 +60,7 @@ Start the application using:
 
 This will launch the app at http://localhost:3000 in your browser.
 
-### **4. Folder Structure**
 
-Here’s an overview of the folder structure:
 
-/public
-
-  /index.html
-  
-  /images
-  
-    climateguard.png // Sample product image
-    
-/src
-
-  /components
-  
-    /ProductCard.js  // React component for displaying a product
-    
-  /data
-
-  
-    productsData.js  // Data for the products, including image paths and descriptions
-    
-  App.js
-  
-  index.js
-  
-/package.json
-
-README.md
 
 
