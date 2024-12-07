@@ -19,21 +19,21 @@
 </ul>
 
 ## Tech Stack
-**<ul>**
+<ul>
   
-<li>**Frontend**: React.js</li>
+<li>Frontend:  React.js</li>
 
-<li>State Management: React Hooks (useState)</li>
+<li>State Management:  React Hooks (useState)</li>
 
-<li>Styling: Tailwind CSS for responsive design</li>
+<li>Styling:  Tailwind CSS for responsive design</li>
 
-<li>Pop-up Alerts: SweetAlert2 for interactive alerts</li>
+<li>Pop-up Alerts:  SweetAlert2 for interactive alerts</li>
 
-<li>Images Storage:Local images stored in the public/images/ folder</li>
+<li>Images Storage:  Local images stored in the public/images/ folder</li>
 
-<li>Build Tool: Webpack (bundled automatically by React)</li>
+<li>Build Tool:  Webpack (bundled automatically by React)</li>
 
-**</ul>**
+</ul>
 
 ## SetUp
 
