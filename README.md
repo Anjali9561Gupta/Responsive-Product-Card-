@@ -1,6 +1,6 @@
 # **Responsive Product Card Application**
 
-**## **Overview****
+## **Overview**
 
 <p>This React application allows users to view products, click the "Buy Now" button to make a purchase, and get a confirmation with updated product details. The products are related to insurance solutions designed to address climate, market volatility, and other extreme events. The application showcases the use of React.js and SweetAlert for a smooth user experience.</p>
 
@@ -19,7 +19,7 @@
 </ul>
 
 ## Tech Stack
-<ul>
+**<ul>**
   
 <li>Frontend: React.js</li>
 
@@ -33,7 +33,7 @@
 
 <li>Build Tool: Webpack (bundled automatically by React)</li>
 
-</ul>
+**</ul>**
 
 ## SetUp
 
