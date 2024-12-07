@@ -21,7 +21,7 @@
 ## Tech Stack
 **<ul>**
   
-<li>Frontend: React.js</li>
+<li>**Frontend**: React.js</li>
 
 <li>State Management: React Hooks (useState)</li>
 
